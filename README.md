@@ -8,7 +8,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
-- [ ] Projeto 1: Lessons Learned
+- [ ] Projeto 1: Lessons Learned (https://github.com/anadolacio/project-lessons-learned.git)
 - [ ] Projeto 2: Supermercado Pirilampo
 - [ ] Projeto 3: Arte com Pixels
 - [ ] Projeto 4: Trybewarts
