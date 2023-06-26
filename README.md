@@ -11,21 +11,21 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] Projeto 1: Lessons Learned (https://github.com/anadolacio/project-lessons-learned.git)
 - [ ] Projeto 2: Supermercado Pirilampo
 - [ ] Projeto 3: Arte com Pixels (https://github.com/anadolacio/project-pixels-art.git)
-- [ ] Projeto 4: Trybewarts
+- [ ] Projeto 4: Trybewarts (group project)
 - [ ] Projeto 5: JavaScript Testes Unitários (https://github.com/anadolacio/project-js-unit-tests.git)
 - [ ] Projeto 6: Zoo Functions (https://github.com/anadolacio/project-zoo-functions.git)
 
 ## Front-end :white_check_mark:
 
-- [ ] Projeto 1: Carrinho de Compras
-- [ ] Projeto 2: Solar System
-- [ ] Projeto 3: Tryunfo
-- [ ] Projeto 4: Trybetunes
-- [ ] Projeto 5: Front-end Online Store
+- [ ] Projeto 1: Carrinho de Compras (https://github.com/anadolacio/project-zoo-functions)
+- [ ] Projeto 2: Solar System (https://github.com/anadolacio/project-solar-system.git)
+- [ ] Projeto 3: Tryunfo (https://github.com/anadolacio/project-tryunfo.git)
+- [ ] Projeto 4: Trybetunes (https://github.com/anadolacio/project-trybetunes.git)
+- [ ] Projeto 5: Front-end Online Store (group project)
 - [ ] Projeto 6: Testes em React
 - [ ] Projeto 7: Trybe Wallet
 - [ ] Projeto 8: Jogo Tryvia
-- [ ] Projeto 9: StarWars Datatable com Context API e Hooks
+- [ ] Projeto 9: StarWars Datatable com Context API e Hooks (https://github.com/anadolacio/project-starwars-planets.git)
 - [ ] Projeto 10: App de Receitas
 
 ## Back-end :white_check_mark:
