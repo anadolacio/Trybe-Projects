@@ -1,6 +1,6 @@
 # Trybe-Projects
 
-Este repositório contém todas os projetos desenvolvidos por _[Ana Luísa](https://www.linkedin.com/in/ana-luisa-cesar-dolacio/)_durante o curso da [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todos os projetos desenvolvidos por _[Ana Luísa](https://www.linkedin.com/in/ana-luisa-cesar-dolacio/)_durante o curso da [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
@@ -10,10 +10,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [ ] Projeto 1: Lessons Learned (https://github.com/anadolacio/project-lessons-learned.git)
 - [ ] Projeto 2: Supermercado Pirilampo
-- [ ] Projeto 3: Arte com Pixels
+- [ ] Projeto 3: Arte com Pixels (https://github.com/anadolacio/project-pixels-art.git)
 - [ ] Projeto 4: Trybewarts
-- [ ] Projeto 5: JavaScript Testes Unitários
-- [ ] Projeto 6: Zoo Functions
+- [ ] Projeto 5: JavaScript Testes Unitários (https://github.com/anadolacio/project-js-unit-tests.git)
+- [ ] Projeto 6: Zoo Functions (https://github.com/anadolacio/project-zoo-functions.git)
 
 ## Front-end :white_check_mark:
 
