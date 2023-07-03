@@ -22,15 +22,15 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] Projeto 3: Tryunfo (https://github.com/anadolacio/project-tryunfo.git)
 - [ ] Projeto 4: Trybetunes (https://github.com/anadolacio/project-trybetunes.git)
 - [ ] Projeto 5: Front-end Online Store (group project)
-- [ ] Projeto 6: Testes em React
-- [ ] Projeto 7: Trybe Wallet
-- [ ] Projeto 8: Jogo Tryvia
+- [ ] Projeto 6: Testes em React (https://github.com/anadolacio/testes_em_react.git)
+- [ ] Projeto 7: Trybe Wallet (https://github.com/anadolacio/trybe_wallet.git)
+- [ ] Projeto 8: Jogo Tryvia (group project)
 - [ ] Projeto 9: StarWars Datatable com Context API e Hooks (https://github.com/anadolacio/project-starwars-planets.git)
-- [ ] Projeto 10: App de Receitas
+- [ ] Projeto 10: App de Receitas (group project)
 
 ## Back-end :white_check_mark:
 
-- [ ] Projeto 1: Docker Todo-List
+- [ ] Projeto 1: Docker Todo-List (https://github.com/anadolacio/docker.git)
 - [ ] Projeto 2: All for One
 - [ ] Projeto 3: One for All
 - [ ] Projeto 4: Talker Manager
