@@ -39,3 +39,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] Projeto 7: Trybesmith (https://github.com/anadolacio/trybesmith)
 - [ ] Projeto 8: Trybers and Dragons (https://github.com/anadolacio/trybers_and_dragons)
 - [ ] Projeto 9: Trybe Futebol Clube (https://github.com/anadolacio/trybe_futebol_clube)
+
+## Python :white_check_mark:
+
+- [ ] Projeto 1: Inventory Report (https://github.com/anadolacio/inventory_report)
+- [ ] Projeto 2: Pro Filer (https://github.com/anadolacio/pro_filer)
+- [ ] Projeto 3: Spot News (https://github.com/anadolacio/spotnews)
+- [ ] Projeto 4: Super Portifólio (https://github.com/anadolacio/super_potifolio)
+- [ ] Projeto 5: Tech News (https://github.com/anadolacio/tech_news)
+- [ ] Projeto 6: Traduzo(https://github.com/anadolacio/traduzo)
+
