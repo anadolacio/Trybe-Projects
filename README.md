@@ -31,9 +31,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ## Back-end :white_check_mark:
 
 - [ ] Projeto 1: Docker Todo-List (https://github.com/anadolacio/docker.git)
-- [ ] Projeto 2: All for One
-- [ ] Projeto 3: One for All
-- [ ] Projeto 4: Talker Manager
+- [ ] Projeto 2: All for One (https://github.com/anadolacio/all_for_one)
+- [ ] Projeto 3: One for All (https://github.com/anadolacio/one_for_all)
+- [ ] Projeto 4: Talker Manager (https://github.com/anadolacio/talker_manager)
 - [ ] Projeto 5: Store Manager
 - [ ] Projeto 6: API Blogs
 - [ ] Projeto 7: Deploy com Railway
