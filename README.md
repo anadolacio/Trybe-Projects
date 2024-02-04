@@ -34,9 +34,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] Projeto 2: All for One (https://github.com/anadolacio/all_for_one)
 - [ ] Projeto 3: One for All (https://github.com/anadolacio/one_for_all)
 - [ ] Projeto 4: Talker Manager (https://github.com/anadolacio/talker_manager)
-- [ ] Projeto 5: Store Manager
-- [ ] Projeto 6: API Blogs
-- [ ] Projeto 7: Deploy com Railway
-- [ ] Projeto 8: Trybesmith
-- [ ] Projeto 9: Trybers and Dragons
-- [ ] Projeto 10: Trybe Futebol Clube
+- [ ] Projeto 5: Store Manager (https://github.com/anadolacio/store_manager)
+- [ ] Projeto 6: API Blogs (https://github.com/anadolacio/api_blogs)
+- [ ] Projeto 7: Trybesmith (https://github.com/anadolacio/trybesmith)
+- [ ] Projeto 8: Trybers and Dragons (https://github.com/anadolacio/trybers_and_dragons)
+- [ ] Projeto 9: Trybe Futebol Clube (https://github.com/anadolacio/trybe_futebol_clube)
