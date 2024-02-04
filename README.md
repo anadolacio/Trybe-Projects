@@ -1,6 +1,6 @@
 # Trybe-Projects
 
-Este repositório contém todos os projetos desenvolvidos por _[Ana Luísa](https://www.linkedin.com/in/ana-luisa-cesar-dolacio/)_durante o curso da [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todos os projetos desenvolvidos por [Ana Luísa](https://www.linkedin.com/in/ana-luisa-cesar-dolacio/) durante o curso da [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
